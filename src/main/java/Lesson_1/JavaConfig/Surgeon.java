@@ -1,4 +1,4 @@
-package JavaConfig;
+package Lesson_1.JavaConfig;
 
 
 public class Surgeon implements Location  {
